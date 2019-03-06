@@ -1,5 +1,7 @@
   <header class="mdl-layout__header">
 
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.pink-orange.min.css" />
+    
     <div class="mdl-layout__header-row">
       <!-- Title -->
       <span class="mdl-layout-title">{{ site.title }}</span>
@@ -20,8 +22,6 @@
       <button class="mdl-button mdl-js-button mdl-button--icon" id="menu-lower-left">
         <i class="material-icons">more_vert</i>
       </button>
-      
-      <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.pink-orange.min.css" />
 
       <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="menu-lower-left">
         {% for option in site.more_vert %}
