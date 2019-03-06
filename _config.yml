@@ -21,13 +21,22 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: WangZhiLue's Blog
+    link: hahahh0.github.io
   option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
+    name: P_Wang's Blog
+    link: tle666.github.io
   option3:
-    name: Cool Option 3
+    name: Acf's Blog
+    link: acfunction.github.io
+  option4:
+    name: a dalao in luogu
+    link: https://www.luogu.org/space/show?uid=65542
+  option5:
+    name: Cool Option 5
+    link: www.myawesomelink.com
+  option6:
+    name: Cool Option 6
     link: www.myawesomelink.com
 
 disqus: true
