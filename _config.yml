@@ -9,15 +9,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tonybrown148.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  tonybrown148
-google_play: ''
-google_plus_com: ''  # Community link
-google_plus_per: ''  #Personal link
+google_play: 
+google_plus_com:   # Community link
+google_plus_per:  #Personal link
 facebook_app_id: 
 
 # Layout settings
-header_type: default  # values [ drawer, default ]
+header_type: drawer  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
-pagination_type: default  # values [ ops, default ]
+pagination_type: ops  # values [ ops, default ]
 
 more_vert:
   option1:
