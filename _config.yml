@@ -17,7 +17,7 @@ facebook_app_id:
 # Layout settings
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
-pagination_type: ops  # values [ ops, default ]
+pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
