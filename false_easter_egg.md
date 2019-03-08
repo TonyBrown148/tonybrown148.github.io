@@ -3,7 +3,7 @@ layout: page
 title: Not An Easter Egg.
 permalink: /easter_egg/
 ---
-This isn't counter as an easter egg.
+This isactually not an easter egg.
 
 Actually, easter egg hunting isn't that easy, but keep on trying!
 
