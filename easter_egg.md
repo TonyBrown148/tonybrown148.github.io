@@ -1,9 +1,9 @@
 ---
 layout: page
 title: You Found An Easter Egg!
-permalink: /easter_egg/
+permalink: /easter__egg/
 ---
-This is a useless easter egg pase.
+This is a useless easter egg page.
 
 Useless for no reason.
 
