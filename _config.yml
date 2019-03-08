@@ -2,16 +2,16 @@
 title: TonyBrown148's Blog
 email: 1091048192@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog of TonyBrown148 at github.
+  Try tapping the three dots on the
+  top-right corner and see what you find!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tonybrown148.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  tonybrown148
 google_play: 
 google_plus_com:   # Community link
-google_plus_per:  #Personal link
+google_plus_per:   # Personal link
 facebook_app_id: 
 
 # Layout settings
@@ -30,14 +30,26 @@ more_vert:
     name: Acf's Blog
     link: https://acfunction.github.io/
   option4:
-    name: a dalao in luogu
-    link: https://www.luogu.org/space/show?uid=65542
+    name: Blog at Luogu
+    link: https://www.luogu.org/blog/TonyBrown148/
   option5:
-    name: Cool Option 5
-    link: www.myawesomelink.com
+    name: Useful button
+    link: tonybrown148.github.io
   option6:
-    name: Cool Option 6
-    link: www.myawesomelink.com
+    name: Useful Button 2
+    link: tonybrown148.github.io
+  option7:
+    name: Useful Button 3
+    link: tonybrown148.github.io
+  option8:
+    name: Useful Button 4
+    link: tonybrown148.github.io
+  option9:
+    name: How many useful buttons are there?
+    link: tonybrown148.github.io
+  option10:
+    name: Oh, never mind.
+    link: tonybrown148.github.io
 
 disqus: true
 disqus_shortname: 'gdgmanagua'
