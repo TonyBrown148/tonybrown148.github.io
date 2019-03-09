@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MissingNo.
+title: POKEMON PUZZLES
 permalink: /chimchar/
 ---
 
