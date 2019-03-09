@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You Found An Easter Egg!
+title: MissingNo.
 permalink: /chimchar/
 ---
 
