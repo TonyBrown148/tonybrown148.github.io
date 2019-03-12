@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Not An Easter Egg.
 permalink: /easter_egg/
 ---
