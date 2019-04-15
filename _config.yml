@@ -51,8 +51,7 @@ more_vert:
     name: Oh, never mind.
     link: https://tonybrown148.github.io/
 
-disqus: true
-disqus_shortname: 'gdgmanagua'
+disqus: false
 
 # Build settings
 markdown: kramdown
