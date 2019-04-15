@@ -4,7 +4,7 @@ title:  "题解 P1631 【序列合并】"
 date:   2019-04-15 19:20:35
 categories: 题解
 author: TB148
-image: https://cdn.luogu.org/fe/logo-single.png?98632e1daed253842bc0846d56f869e3
+image: https://i.loli.net/2019/04/15/5cb46a13e44fd.png
 ---
 本篇题解不是严格的$O(nlogn)$，实际上，它是$O(nlog^2n)$的，但是，AC了
 
