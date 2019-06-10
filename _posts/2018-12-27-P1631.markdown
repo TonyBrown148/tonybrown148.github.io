@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "题解 P1631 【序列合并】"
-date:   2019-04-15 19:20:35
+date:   2018-12-27 10:41:15
 categories: 题解
 author: TB148
 image: https://i.loli.net/2019/04/15/5cb46a13e44fd.png
